@@ -1,0 +1,20 @@
+item_id,title,review_text,rating,predicted_recommend,final_recommend,confidence
+15,best for bike rides,top it up with white lenin shirt and solid black pants,5,1,1,
+11,good texture,suits for all weather,4,1,1,
+11,good texture,suits for all weather,4,1,1,
+11,good texture,suits for all weather,4,1,1,
+2,good texture,suitable for all weather,3,1,1,
+15,tyui,tyui,5,1,1,
+15,nice,nice,3,1,1,
+15,nice,nice,3,1,1,
+15,good,good,5,1,1,
+15,good,good,5,1,0,
+7,good,good,4,1,1,
+15,good,good,4,1,1,
+15,good,good,4,1,0,
+1,amazing,the texture is really good,5,1,1,86.49
+1,amazing,the texture is really good,5,1,0,86.49
+2,amazing,nice texture,5,1,1,87.15
+2,amazing,nice texture,5,1,0,87.15
+2,nice product,love the color,5,1,1,83.42
+2,nice product,love the color,5,1,0,83.42
